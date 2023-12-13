@@ -14,5 +14,5 @@
 
     ```bash
     npm install ```
-4 . Runing 
+4 . Run
 npm run dev
