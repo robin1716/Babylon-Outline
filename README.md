@@ -10,9 +10,9 @@
     cd your-repository
     ```
 
-3. Install dependencies:
+3. Switch to master branch and Install dependencies:
 
     ```bash
     npm install ```
-4 . Run
+4 .Run
 npm run dev
